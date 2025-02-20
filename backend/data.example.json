@@ -1,0 +1,43 @@
+{
+  "degreeInfo": {
+    "fullName": "Nguyen Van Thu",
+    "dateOfBirth": "1992-11-21",
+    "degreeType": "Doctor of Medical",
+    "specialization": "General Medicine",
+    "graduationYear": 2016,
+    "classification": "Very Good",
+    "studyMode": "Full-time",
+    "issueDate": "2016-05-27",
+    "degreeCode": "008410"
+  },
+  "institutionInfo": {
+    "institutionName": "University of Medicine and Pharmacy, Ho Chi Minh City",
+    "issuerName": "PGS. TS. Tran Diep Tuan",
+    "issuerTitle": "Rector",
+    "institutionSeal": "Base64EncodedSealImage"
+  },
+  "blockchainData": {
+    "uniqueID": "123456789abcdef",
+    "qrCode": "Base64EncodedQRCode",
+    "publicKey": "abcdef1234567890",
+    "digitalSignature": "SignatureHashHere"
+  },
+  "securityInfo": {
+    "encryptedPersonalInfo": "EncryptedDataHere",
+    "accessLogs": [
+      {
+        "accessedBy": "VerifierID123",
+        "accessDate": "2025-01-25T14:00:00Z",
+        "accessPurpose": "Verification"
+      }
+    ]
+  },
+  "linkedData": {
+    "relatedDocuments": [
+      {
+        "documentType": "Transcript",
+        "documentLink": "https://example.com/transcript/123456"
+      }
+    ]
+  }
+}

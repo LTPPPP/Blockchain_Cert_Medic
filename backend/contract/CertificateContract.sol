@@ -10,7 +10,7 @@ contract CertificateVerification {
         string certificateHash;
     }
 
-    mapping(string => Certificate) public certificates; // certificateHash -> Certificate
+    mapping(string => Certificate) public certificates;
 
     event CertificateAdded(string certificateHash, string doctorName);
 
